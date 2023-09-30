@@ -11,4 +11,4 @@
 <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div><br/>
 
-Iniciando no mundo da programação e no momento estou desenvolvendo minhas habilidades em JavaScript
+Em busca de Estágio na área de Dados e no momento possuo foco com Python, Excel e Power BI 
